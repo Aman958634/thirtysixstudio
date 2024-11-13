@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    /* background-color:#FD2C2A; */
+    transition: all 2s ease;
+    background-color:#000000;
+    color: white;
+}
+canvas{
+    pointer-events: none;
+
+}
+
+span.growing{
+  
+    background-color:#FD2C2A;
+}
